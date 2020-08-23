@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Ask a question
+{% endblock %}
+
+{% block main %}
+<form action="/ask" method="post">
+  <div class="input-group input-group-lg">
+    <div class="input-group-prepend">
+      <span class="input-group-text" id="inputGroup-sizing-lg">Title</span>
+    </div>
+    <input type="text" class="form-control" name="title" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+  </div>
+  <div class="input-group">
+    <textarea class="form-control" name="question" aria-label="With textarea" rows="10"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Publish</button>
+</form>
+{% endblock %}
