@@ -1,4 +1,4 @@
-Welcome to ASK ME! It's a Q&A website for coders of all levels.
+# Welcome to ASK ME! It's a Q&A website for coders of all levels.
 
 What is this website for?
 It's for asking any coding-related questions! Whether they are about any specific language, setting up your dev environment, or anything else, please feel free to use this website for it.
