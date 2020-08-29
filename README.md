@@ -6,4 +6,4 @@ A simple Q&A website built for my CS50 - Introduction to Computer Science course
 
 * I wanted to make a website where coders (mostly beginners-intermediate learners) can ask each other any coding-related questions.
 
-I used Python (Flask) for backend, SQLite3 for database, HTML & CSS and Bootstrap for frontend. I'm planning to add new features soon like: upvote & downvote, search, user control panel and more.
+* I used Python (Flask) for backend, SQLite3 for database, HTML & CSS and Bootstrap for frontend. I'm planning to add new features soon like: upvote & downvote, search, user control panel and more.
